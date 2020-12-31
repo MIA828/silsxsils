@@ -1,0 +1,203 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  header{
+    height: 60px;
+    background-color:white;
+  }
+
+  .header-nav1 {
+    background-color:white;
+    position: fixed;
+    height: 120px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .logo {
+  margin-right: 500px
+  }
+
+  header a {
+    color:#a3c468; 
+    text-decoration: none; 
+    font-family: 'Josefin Slab', serif;
+    font-size: 18px;
+    margin: auto;
+    text-transform: uppercase;
+    margin: auto;
+    margin-right: 5px;
+  }
+
+  nav {
+    margin-right: 5%;
+  }
+  
+  #first-block {
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+  }
+  .title-container {
+    text-align: center;
+    margin-top: 200px
+  }
+    
+  .background-image0 {
+    width: 1500px;
+    height: 708px;
+    margin-top: 200px
+   }
+       
+    /*   Second block   */
+#second-block {
+  background-color:#f8f4e6;
+  text-align: center;
+  height: 350px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.about-container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+}
+
+.info-title {
+  font-size: 40px;
+  font-family: 'Beth Ellen', cursive;
+  font-weight: 500;
+  margin-bottom: 30px;
+  color:#ff5757;
+  text-align:center;
+  margin-bottom: 20px;
+}
+
+.info-text {
+  font-size: 30px;
+  font-family: 'Alegreya', serif;
+  margin-bottom: 30px;
+  color: #444;
+  width: 30%;
+  text-align:center
+}
+
+.font-small {
+  font-size: 15px;
+  font-family: 'Alegreya', serif;
+  text-align:justify
+}
+/*   Second block End   */
+
+
+  /*   Third block Start   */
+#third-block {
+  background-color: white;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.item-title {
+  font-size: 40px;
+  font-family: 'Beth Ellen', cursive;
+  font-weight: 500;
+  color: #ff5757;
+  text-align: center;
+}  
+
+.item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.item-name {
+  font-size: 30px;
+  padding: 10px;
+  font-family: 'Alegreya', serif
+}
+
+.item-image1 {
+  border-radius: 50%;
+  width: 400px;
+  height:300px
+}
+/*   Third block End   */
+
+
+ /*   Fourth block Start   */
+ #fourth-block {
+  background-color: #a3c468;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.sns-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.sns-title {
+  font-size: 40px;
+  font-family: 'Beth Ellen', cursive;
+  font-weight: 500;
+  margin-bottom: 30px;
+  color:white;
+  text-align: center;
+}  
+
+.sns-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.sns-name {
+  font-size: 30px;
+  padding: 10px;
+  font-family:'Alegreya', serif;
+  color:white
+}
+
+.sns-image2 {
+  width: 250px;
+  height:150px
+}
+/*   Fourth block End   */
+
+  footer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        height: 50px;
+        background-color:#a3c468;
+        font-size: 15px;
+        color:white;
+        font-family:'Josefin Slab', serif;
+      }
+  
+
+
