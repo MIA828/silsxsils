@@ -84,7 +84,7 @@
 
 .info-text {
   font-size: 30px;
-  font-family: 'Alegreya', serif;
+  font-family: 'Open Sans';
   margin-bottom: 30px;
   color: #444;
   width: 30%;
@@ -94,7 +94,7 @@
 
 .font-small {
   font-size: 15px;
-  font-family: 'Alegreya', serif;
+  font-family: 'Open Sans';
   text-align:justify
 }
 /*   Second block End   */
@@ -129,7 +129,7 @@
 .item-name {
   font-size: 30px;
   padding: 10px;
-  font-family: 'Alegreya', serif
+  font-family: 'Open Sans'
 }
 
 .item-image1 {
@@ -177,7 +177,7 @@
 .sns-name {
   font-size: 30px;
   padding: 10px;
-  font-family:'Alegreya', serif;
+  font-family:'Open Sans';
   color:white
 }
 
